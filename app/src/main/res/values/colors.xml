@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF5E5E</color> <!-- Rojo claro -->
+    <color name="green">#C8E6C9</color> <!-- Verde claro -->
+    <color name="blue">#BBDEFB</color> <!-- Azul claro -->
+    <color name="yellow">#FFF9C4</color> <!-- Amarillo claro -->
+    <color name="purple">#E1BEE7</color> <!-- Morado claro -->
+    <color name="orange">#FFCC80</color> <!-- Naranja claro -->
+    <color name="cyan">#B2EBF2</color> <!-- Cian claro -->
+    <color name="pink">#F48FB1</color> <!-- Rosa claro -->
+    <color name="grey">#CFD8DC</color> <!-- Gris claro -->
+    <color name="lila">#C869CC</color>
+    <string-array name="color_options">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Morado</item>
+        <item>Naranja</item>
+        <item>Cian</item>
+        <item>Rosa</item>
+        <item>Gris</item>
+        <item>Lila</item>
+    </string-array>
+</resources>
